@@ -1,21 +1,13 @@
 # Ideas de proyecto
 
-## Idea 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
-
-## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Idea 1: Billetera móvil 
+App para recibir y pasar plata de manera virtual a través de esta plataforma también se podrá hacer hacer pagos online con mayor facilidad y comodidad 
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+Daviplata
+Nequi
+Movii
+Nu Bank
+
+
