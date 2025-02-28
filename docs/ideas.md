@@ -5,9 +5,9 @@ App para recibir y pasar plata de manera virtual a través de esta plataforma ta
 
 Aplicaciones similares:
 
-Daviplata
-Nequi
-Movii
-Nu Bank
+1. Daviplata
+2. Nequi
+3. Movii
+4. Nu Bank
 
 
